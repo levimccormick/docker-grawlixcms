@@ -39,3 +39,6 @@ This will launch three containers: webserver, dbserver, and phpmyadmin (for inte
 
 ### Stopping Docker
 When your mischief has been managed, you can stop the containers with `docker-compose down` from the local_env folder.
+
+## Getting help
+I provide this without any warranty. The instructions here should be enough to get started. I have this running on a Mac. Docker is a fickle beast, so you may need to exercise your Google-fu to get it working on a different OS. If you have questions, hit me up on [Twitter](https://twitter.com/levi_mccormick). I'll respond as I have time.
